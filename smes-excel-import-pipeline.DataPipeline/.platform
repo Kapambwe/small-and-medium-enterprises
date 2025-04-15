@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "DataPipeline",
+    "displayName": "smes-excel-import-pipeline"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "f405ec0d-4094-ab4e-43ca-45a106ec2641"
+  }
+}

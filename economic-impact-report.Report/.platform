@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "economic-impact-report"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "fda74e9a-05d3-a2aa-4160-69896a23b1ed"
+  }
+}

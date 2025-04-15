@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "smes-productivity-profitability-report"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "e7cf29e7-d343-8a36-4b15-76fecdb515da"
+  }
+}
